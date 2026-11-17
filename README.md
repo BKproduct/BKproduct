@@ -15,7 +15,7 @@ Most of it runs in private repos for clients and for my own operating system.
 | Repo | What it is |
 |---|---|
 | [extrovert-cli](https://github.com/BKproduct/extrovert-cli) | Go CLI for LinkedIn automation: bulk import, batch lookup, dashboards |
-| [kie-pp-cli](https://github.com/BKproduct/kie-pp-cli) | Go CLI for image and video generation jobs |
+| [kie-cli](https://github.com/BKproduct/kie-cli) | Go CLI and MCP server for image and video generation jobs |
 | [claude-code-skills](https://github.com/BKproduct/claude-code-skills) | Token-efficiency pack for coding agents |
 | [interview-content-pipeline](https://github.com/BKproduct/interview-content-pipeline) | Visual map of an interview-to-content pipeline |
 | [ai-automation-studio](https://github.com/BKproduct/ai-automation-studio) | Studio landing site |
